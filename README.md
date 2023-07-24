@@ -12,14 +12,14 @@ to improve the model’s performance. Extensive experiments on three datasets re
 the model interpretability using the Grad-CAM algorithm.
 
 <div align="center">
-<img src="https://github.com/JimengShi/ParaRCNN-Time-Series-Forecasting/blob/main/figures/model_framework.png" alt="model_framework.png" >
+<img src="https://github.com/JimengShi/ParaRCNN-Time-Series-Forecasting/blob/main/figures/model_framework.png" alt="model_framework.png" width="90%">
 </div>
 
 
 <p align="center">
-  <img alt="rnn_shift" src="https://github.com/JimengShi/ParaRCNN-Time-Series-Forecasting/blob/main/figures/model_rnn_shift.png" width="45%">
+  <img alt="rnn_shift" src="https://github.com/JimengShi/ParaRCNN-Time-Series-Forecasting/blob/main/figures/model_rnn_shift.png" width="50%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="cnn_shift" src="https://github.com/JimengShi/ParaRCNN-Time-Series-Forecasting/blob/main/figures/model_cnn_shift.png" width="45%">
+  <img alt="cnn_shift" src="https://github.com/JimengShi/ParaRCNN-Time-Series-Forecasting/blob/main/figures/model_cnn_shift.png" width="50%">
 </p>
 
 
