@@ -12,8 +12,8 @@ Official codes for "Explainable Parallel RCNN with Novel Feature Representation 
 ## Citation
 BibTeX
 
-@article{shi2023explainable, \n
-  title={Explainable Parallel RCNN with Novel Feature Representation for Time Series Forecasting}, \n
+@article{shi2023explainable, \\
+  title={Explainable Parallel RCNN with Novel Feature Representation for Time Series Forecasting}, \\
   author={Shi, Jimeng and Myana, Rukmangadh and Stebliankin, Vitalii and Shirali, Azam and Narasimhan, Giri},
   journal={arXiv preprint arXiv:2305.04876},
   year={2023}
