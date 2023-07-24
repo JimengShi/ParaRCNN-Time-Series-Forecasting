@@ -11,13 +11,17 @@ learning framework composed of RNN and CNN, both of which are used hierarchicall
 to improve the model’s performance. Extensive experiments on three datasets reveal the effectiveness of our method. Finally, we demonstrate
 the model interpretability using the Grad-CAM algorithm.
 
-<div align="left">
+<div align="center">
 <img src="https://github.com/JimengShi/ParaRCNN-Time-Series-Forecasting/blob/main/figures/model_framework.png" alt="model_framework.png" >
 </div>
 
-<img src="[rnn_shift.png](https://github.com/JimengShi/ParaRCNN-Time-Series-Forecasting/blob/main/figures/model_rnn_shift.png)" /> 
 
-<img src="[cnn_shift.png](https://github.com/JimengShi/ParaRCNN-Time-Series-Forecasting/blob/main/figures/model_cnn_shift.png)" width="425"/> 
+<p align="center">
+  <img alt="rnn_shift" src="https://github.com/JimengShi/ParaRCNN-Time-Series-Forecasting/blob/main/figures/model_rnn_shift.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="cnn_shift" src="https://github.com/JimengShi/ParaRCNN-Time-Series-Forecasting/blob/main/figures/model_cnn_shift.png" width="45%">
+</p>
+
 
 ## Environment Deployment
 - conda create -n `EVN_NAME` python=3.8
