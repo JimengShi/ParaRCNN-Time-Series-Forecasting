@@ -1,5 +1,5 @@
 # ParaRCNN-Time-Series-Forecasting
-Official codes for "Explainable Parallel RCNN with Novel Feature Representation for Time Series Forecasting" accepted by AALTD workshop at ECML-PKDD 2023.
+Official codes for "Explainable Parallel RCNN with Novel Feature Representation for Time Series Forecasting" accepted by [AALTD workshop at ECML-PKDD 2023](https://ecml-aaltd.github.io/aaltd2023/).
 
 ## Environment Deployment
 - conda create -n `EVN_NAME` python=3.8
