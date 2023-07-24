@@ -11,6 +11,9 @@ learning framework composed of RNN and CNN, both of which are used hierarchicall
 to improve the model’s performance. Extensive experiments on three datasets reveal the effectiveness of our method. Finally, we demonstrate
 the model interpretability using the Grad-CAM algorithm.
 
+<div align="left">
+<img src="https://github.com/JimengShi/ParaRCNN-Time-Series-Forecastinga/blob/master/images/model_framework.png" alt="model_framework.png" >
+</div>
 
 ## Environment Deployment
 - conda create -n `EVN_NAME` python=3.8
