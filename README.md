@@ -15,7 +15,7 @@ the model interpretability using the Grad-CAM algorithm.
 <img src="https://github.com/JimengShi/ParaRCNN-Time-Series-Forecasting/blob/main/figures/model_framework.png" alt="model_framework.png" >
 </div>
 
-<img src="[rnn_shift.png](https://github.com/JimengShi/ParaRCNN-Time-Series-Forecasting/blob/main/figures/model_rnn_shift.png)" width="425"/> 
+<img src="[rnn_shift.png](https://github.com/JimengShi/ParaRCNN-Time-Series-Forecasting/blob/main/figures/model_rnn_shift.png)" /> 
 
 <img src="[cnn_shift.png](https://github.com/JimengShi/ParaRCNN-Time-Series-Forecasting/blob/main/figures/model_cnn_shift.png)" width="425"/> 
 
