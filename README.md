@@ -12,7 +12,7 @@ to improve the model’s performance. Extensive experiments on three datasets re
 the model interpretability using the Grad-CAM algorithm.
 
 <div align="left">
-<img src="https://github.com/JimengShi/ParaRCNN-Time-Series-Forecastinga/figures/model_framework.png" alt="model_framework.png" >
+<img src="https://github.com/JimengShi/ParaRCNN-Time-Series-Forecastinga/blob/master/figures/model_framework.png" alt="model_framework.png" >
 </div>
 
 ## Environment Deployment
